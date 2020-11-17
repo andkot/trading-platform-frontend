@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.App-my {
+  height: auto;
+  background: black;
+  color: darkgray;
+  /*display: inline;*/
+}
+
+.App-my ol{
+  color: aliceblue;
+}
